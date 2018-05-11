@@ -37,12 +37,12 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Aaron Steven White
-  avatar: asw_headphones.jpg
+  avatar: aaron.jpg
   email: aaron.white@rochester.edu
   disqus-shortname: #megaattitude
-  twitter: aaronsteven
+  twitter: #aaronsteven
   facebook: #username
-  github: aaronstevenwhite
+  github: #MegaAttitude
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
