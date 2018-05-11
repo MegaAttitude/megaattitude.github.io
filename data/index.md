@@ -5,11 +5,11 @@ excerpt: "Data generateed by the MegaAttitude Project."
 search_omit: true
 ---
 
-## MegaAcceptability
-
-[Download (.zip)](megaacceptability_v1.1.zip)
+## MegaAcceptability (v1.0)
 
 This MegaAcceptability dataset consists of ordinal acceptability judgments for ~1000 clause-embedding verbs of English in 50 surface-syntactic frames.  The data were collected on Amazon's Mechanical Turk using [Turktools](http://turktools.net/).  
+
+[Download (.zip)](megaacceptability_v1.0.zip)
 
 For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the following paper:
 
@@ -17,11 +17,11 @@ For a detailed description of the dataset, the item construction and collection 
 
 If you make use of this dataset in a presentation or publication, we ask that you please cite this paper.
 
-## MegaVeridicality
-
-[Download (.zip)](megaveridicality_v1.0.zip)
+## MegaVeridicality (v1.0)
 
 This MegaVeridicality dataset consists of ordinal veridicality judgments as well as ordinal acceptability judgments for 517 clause-embedding verbs of English.  The data were collected on Amazon's Mechanical Turk using [Turktools](http://turktools.net/).  
+
+[Download (.zip)](megaveridicality_v1.0.zip)
 
 For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the following paper:
 
