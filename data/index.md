@@ -5,11 +5,11 @@ excerpt: "Data generateed by the MegaAttitude Project."
 search_omit: true
 ---
 
-## MegaAcceptability (v1.0)
+## MegaAcceptability
 
 This MegaAcceptability dataset consists of ordinal acceptability judgments for ~1000 clause-embedding verbs of English in 50 surface-syntactic frames.  The data were collected on Amazon's Mechanical Turk using [Turktools](http://turktools.net/).  
 
-[Download (.zip)](megaacceptability_v1.zip)
+[Download v1 (.zip)](megaacceptability_v1.zip)
 
 For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the following paper:
 
