@@ -26,7 +26,7 @@ For a detailed description of the dataset, the item construction and collection
 methods, and discussion of how to use a dataset on this scale to address
 questions in linguistic theory, please see the following paper:
 
-> An, H. Y. & White, A. S. 2019. [The lexical and grammatical sources of neg-raising inferences](https://arxiv.org/pdf/1908.05253). [arXiv:1908.05253](https://arxiv.org/abs/1908.05253) [cs.CL]
+> An, H. Y. & A.S. White 2019. [The lexical and grammatical sources of neg-raising inferences](https://arxiv.org/pdf/1908.05253). [arXiv:1908.05253](https://arxiv.org/abs/1908.05253) [cs.CL]
 
 If you make use of this dataset in a presentation or publication, we ask that
 you please cite this paper.
