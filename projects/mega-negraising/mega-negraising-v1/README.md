@@ -6,7 +6,7 @@
 
 **Version:** 1.0
 
-**Release date:** Aug 13, 2019
+**Release date:** Aug 14, 2019
 
 ## Overview
 
@@ -14,14 +14,13 @@ This MegaNegRaising dataset consists of neg-raising judgments and acceptability 
 
 For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the following paper:
 
-White, A. S. & K. Rawlins. 2016. [A computational model of S-selection](http://aswhite.net/media/papers/white_computational_2016_salt.pdf). In M. Moroney, C-R. Little, J. Collard & D. Burgdorf (eds.), *Semantics and Linguistic Theory* 26, 641-663. Ithaca, NY: CLC Publications.
-??
+An, H. Y. & White, A. S. 2019. The lexical and grammatical sources of neg-raising inferences. arXiv:1908.05253 [cs.CL]
 
 If you make use of this dataset in a presentation or publication, we ask that you please cite this paper.
 
 ## Version history
 
-1.0: first public release, Aug 13, 2019.
+1.0: first public release, 14 Aug 2019.
 
 ## Description
 
@@ -31,11 +30,10 @@ If you make use of this dataset in a presentation or publication, we ask that yo
 | list              | integer identifier for list participant was responding to                                 | 0...247             |
 | presentationorder | relative position of item in list                                                         | 1...32              |
 | verb              | clause-embedding verb found in the item                                                   | see paper           |
+| frame             | clausal complement found in the item                                                      | see paper           |
 | tense             | matrix tense found in the item                                                            | `present`, `past`   |
 | subject           | matrix subject person found in the item                                                   | `first`, `third`    |
-| frame             | clausal complement found in the item                                                      | see paper           |
-| voice             | voice found in the item                                                                   | `active`, `passive` |
+| sentence          | sentence that was judged                                                                  | see paper                            |
 | negraising        | neg-raising response                                                                      | 0...1               |
 | acceptability     | acceptability response                                                                    | 0...1               |
-| agreement         | how much participant agreed with other participants (see White & Rawlins ??, in prep)     | \[-4.64, 2.32\]     |
 | nativeenglish     | whether the participant reported speaking American English natively                       | `True`, `False`     |
