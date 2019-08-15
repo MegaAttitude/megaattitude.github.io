@@ -1,0 +1,88 @@
+# Researchers
+
+faculty:
+  name: Faculty
+  people:
+    aswhite:
+      name: Aaron Steven White
+      role: Assistant Professor of Linguistics
+      affiliation: University of Rochester
+      website: http://aaronstevenwhite.io
+      email: aaron.white@rochester.edu
+      twitter: aaronsteven
+      projects:
+        - megaacceptability
+        - megaveridicality
+        - meganegraising
+        - megaorientation
+
+    krawlins:
+      name: Kyle Rawlins
+      role: Associate Professor of Cognitive Science
+      affiliation: Johns Hopkins University
+      website: http://sites.krieger.jhu.edu/rawlins/
+      email: kgr@jhu.edu
+      projects:
+        - megaacceptability
+        - megaveridicality
+
+    bvandurme:
+      name: Benjamin Van Durme
+      role: Assistant Professor of Computer Science
+      affiliation: Johns Hopkins University
+      website: http://www.cs.jhu.edu/~vandurme/
+      email: vandurme@cs.jhu.edu
+      projects:
+        - megaveridicality
+
+# researchscientists:
+#   name: Research Scientists
+#   people:
+
+# postdocs:
+#   group: Postdocs
+#   people:
+#
+
+graduatestudents:
+  name: Graduate Students
+  people:
+    rrudinger:
+      name: Rachel Rudinger
+      role: Research Scientist
+      affiliation: Johns Hopkins University
+      website: https://rudinger.github.io
+      email: rudinger@jhu.edu
+      projects:
+        - megaveridicality
+
+    yan:
+      name: Hannah Youngeun An
+      role: Research Assistant
+      affiliation: University of Rochester
+      website: http://www.sas.rochester.edu/lin/people/grad/index.html
+      email: yan2@ur.rochester.edu
+      projects:
+        - megaacceptability
+        - meganegraising
+
+    emoon:
+      name: Ellise Moon
+      role: Research Assistant
+      affiliation: University of Rochester
+      website: http://www.sas.rochester.edu/lin/people/grad/index.html
+      email: emoon3@ur.rochester.edu
+      projects:
+        - megaorientation
+
+# undergraduatestudents:
+#   name: Undergraduate Students
+#   people:
+#     mmendiratta:
+#       name: Muskaan Mendiratta
+#       role: Research Assistant
+#       affiliation: University of Rochester
+#       website:
+#       email:
+#       projects:
+#         - megaentailment
