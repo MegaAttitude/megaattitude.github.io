@@ -4,7 +4,7 @@ handle: megaveridicality
 search_omit: true
 ---
 
-This MegaVeridicality dataset consists of ordinal veridicality judgments as well as ordinal acceptability judgments for 773 clause-embedding verbs of English with a variety of subordinate clause structures. For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the following paper:
+The MegaVeridicality dataset consists of ordinal veridicality judgments as well as ordinal acceptability judgments for 773 clause-embedding verbs of English with a variety of subordinate clause structures. For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the following paper:
 
 > White, A. S., R. Rudinger, K. Rawlins, & B. Van Durme. 2018. [Lexicosyntactic Inference in Neural Models](http://aaronstevenwhite.io/papers/white_lexicosyntactic_2018.pdf). To appear in _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_, Brussels, Belgium, October 31-November 4, 2018.
 

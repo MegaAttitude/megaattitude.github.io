@@ -8,7 +8,7 @@ megaacceptability:
       filetype: zip
       url: mega-acceptability-v1.zip
       sentences: 50,000
-      verbs: 1,000
+      predicates: 1,000
       frames: 50
     - name: v2
       filetype: zip
@@ -50,8 +50,8 @@ megaorientation:
   url: mega-orientation/
   datasets:
     - name: v1
-      filetype: zip
-      url: mega-orientation-v1.zip
+      filetype: coming soon
+      url: #mega-orientation-v1.zip
       sentences: 2,208
       predicates: 898
       frames: 5
