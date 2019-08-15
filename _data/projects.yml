@@ -16,6 +16,12 @@ megaacceptability:
       sentences: 75,000
       predicates: 1,000
       frames: 150
+    - name: linking
+      filetype: zip
+      url: mega-acceptability-linking-v1.zip
+      sentences: 50
+      predicates: 50
+      frames: 50
 
 megaveridicality:
   title: MegaVeridicality
