@@ -60,7 +60,7 @@ graduatestudents:
       name: Hannah Youngeun An
       role: Research Assistant
       affiliation: University of Rochester
-      website:
+      website: https://hannah0n.github.io
       email: yan2@ur.rochester.edu
       projects:
         - megaacceptability
