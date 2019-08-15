@@ -8,9 +8,9 @@ Inferences that are triggered (at least in part) by particular lexical items
 provide a rich test bed for distinguishing the relative semantic contribution of
 lexical items and functional structure. One class of such inferences that has
 garnered extended attention is neg(ation)-raising, wherein negation on a
-predicate can be interpreted as though in that predicate’s subordinate clause
-(Fillmore, 1963; Bartsch, 1973; Horn, 1978; Gajewski, 2007). For example, a
-neg-raising inference is triggered by (1) while one is not triggered by (2).
+predicate can be interpreted as though in that predicate’s subordinate clause.
+For example, a neg-raising inference is triggered by (1) while one is not
+triggered by (2).
 
 (1) Jo doesn’t think that Bo left.
     ~~> Jo thinks that Bo didn’t leave.
