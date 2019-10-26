@@ -56,7 +56,7 @@ megaorientation:
   url: mega-orientation/
   datasets:
     - name: v1
-      filetype: coming soon
+      filetype: zip
       url: mega-orientation-v1.zip
       sentences: 2,208
       predicates: 898
