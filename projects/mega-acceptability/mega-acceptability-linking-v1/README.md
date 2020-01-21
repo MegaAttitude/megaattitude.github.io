@@ -1,4 +1,4 @@
-# The LinkingExperiment dataset
+# The MegaAcceptability Linking dataset
 
 **Authors:** Hannah YoungEun An and Aaron Steven White
 
@@ -6,15 +6,15 @@
 
 **Version:** 1.0
 
-**Release date:** Aug 14, 2019
+**Release date:** 14 Aug 2019
 
 ## Overview
 
-This MegaAcceptability Linking dataset consists of ordinal acceptability judgments for 50 clause-embedding verbs of English in 35 surface-syntactic frames.  The data were collected on Amazon's Mechanical Turk using [Ibex on Mechanical Turk](https://github.com/aaronstevenwhite/ibex).
+This dataset consists of ordinal acceptability judgments for 50 clause-embedding verbs of English in 35 surface-syntactic frames. The data were collected on Amazon's Mechanical Turk using [Ibex on Mechanical Turk](https://github.com/aaronstevenwhite/ibex).
 
-For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the following paper:
+For a detailed description of the dataset, the item construction and collection methods, please see the following paper:
 
-An, H. Y. & White, A. S. 2019. [The lexical and grammatical sources of neg-raising inferences].
+> An, H.Y. & A.S. White. 2019. [The lexical and grammatical sources of neg-raising inferences](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil). _Proceedings of the Society for Computation in Linguistics_ 3:23, 220-233.
 
 If you make use of this dataset in a presentation or publication, we ask that you please cite this paper.
 
@@ -35,4 +35,4 @@ If you make use of this dataset in a presentation or publication, we ask that yo
 | response          | ordinal scale acceptability response                                                      | 1...7                                |
 | nativeenglish     | whether the participant reported speaking American English natively                       | `True`                               |
 | sentence          | sentence that was judged                                                                  | see paper                            |
-| version           | MegaAcceptability dataset version where the item was drawn from                       | 1, 2                                 |
+| version           | MegaAcceptability dataset version where the item was drawn from                           | 1, 2                                 |

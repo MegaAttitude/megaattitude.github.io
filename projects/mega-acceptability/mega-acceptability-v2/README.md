@@ -1,23 +1,24 @@
 # The MegaAcceptability dataset
 
-**Authors:** Hannah YoungEun An and Aaron Steven White and Kyle Rawlins
+**Authors:** Aaron Steven White, Hannah YoungEun An, and Kyle Rawlins
 
-**Contact:** yan2@ur.rochester.edu, aaron.white@rochester.edu, kgr@jhu.edu
+**Contact:** aaron.white@rochester.edu, yan2@ur.rochester.edu, kgr@jhu.edu
 
 **Version:** 2.0
 
-**Release date:** Aug 14, 2019
+**Release date:** 14 Aug 2019
 
 ## Overview
 
-This MegaAcceptability dataset consists of ordinal acceptability judgments for 1,000 clause-embedding verbs of English in 50 surface-syntactic frames and three matrix tenses.  This dataset combines the MegaAcceptability version 1.0 and new data collected on Amazon's Mechanical Turk using [Ibex on Mechanical Turk](https://github.com/aaronstevenwhite/ibex).
+This MegaAcceptability dataset consists of ordinal acceptability judgments for 1,007 clause-embedding verbs of English in 50 surface-syntactic frames and three matrix tenses.  This dataset combines the MegaAcceptability version 1.0 and data collected for 25,000 additional verb-frame pairs on Amazon's Mechanical Turk using [Ibex on Mechanical Turk](https://github.com/aaronstevenwhite/ibex).
 
 For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the following papers:
 
-> An, H. Y. & White, A. S. 2019. The lexical and grammatical sources of neg-raising inferences.
-> White, A. S. & K. Rawlins. 2016. [A computational model of S-selection](http://aswhite.net/media/papers/white_computational_2016_salt.pdf). In M. Moroney, C-R. Little, J. Collard & D. Burgdorf (eds.), *Semantics and Linguistic Theory* 26, 641-663. Ithaca, NY: CLC Publications.
+> An, H.Y. & A.S. White. 2019. [The lexical and grammatical sources of neg-raising inferences](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil). _Proceedings of the Society for Computation in Linguistics_ 3:23, 220-233.
 
-If you make use of this dataset in a presentation or publication, we ask that you please cite this paper.
+> White, A. S. & K. Rawlins. 2016. [A computational model of S-selection](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/26.641/3662). In M. Moroney, C-R. Little, J. Collard & D. Burgdorf (eds.), *Semantics and Linguistic Theory* 26, 641-663. Ithaca, NY: CLC Publications.
+
+If you make use of this dataset in a presentation or publication, we ask that you please cite these papers.
 
 ## Version history
 
