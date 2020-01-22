@@ -10,11 +10,11 @@
 
 ## Overview
 
-This dataset consists of ordinal acceptability judgments for 30 clause-embedding verbs of English in 38 surface-syntactic frames.  The data were collected on Amazon's Mechanical Turk using [Turktools](http://turktools.net/).
+This dataset consists of ordinal acceptability judgments for 30 clause-embedding verbs of English in 38 surface-syntactic frames; this is a replication of an experiment from an [experiment in an earlier paper](http://aaronstevenwhite.io/papers/white_labeling_2017.pdf), adapting to the method in the paper linked below.  The data were collected on Amazon's Mechanical Turk using [Turktools](http://turktools.net/).
 
 For a detailed description of the dataset and the item construction and collection methods, please see Section 3 of the following paper:
 
-> White, A.S. & K. Rawlins. 2020. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to _Glossa_.
+> White, A.S. & K. Rawlins. 2020. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Conditionally accepted to _Glossa_.
 
 If you make use of this dataset in a presentation or publication, we ask that you please cite this paper.
 
@@ -26,7 +26,7 @@ If you make use of this dataset in a presentation or publication, we ask that yo
 
 | **Column**        | **Description**                                                                           | **Values**                           |
 |-------------------|-------------------------------------------------------------------------------------------|--------------------------------------|
-| participant       | anonymous integer identifier for participant that provided the response                   | 0...114                              |
+| participant       | anonymized integer identifier for participant that provided the response                   | 0...114                              |
 | list              | integer identifier for list participant was responding to                                 | 0...22                               |
 | presentationorder | relative position of item in list                                                         | 1...60                               |
 | verb              | clause-embedding verb found in the item                                                   | see paper                            |
