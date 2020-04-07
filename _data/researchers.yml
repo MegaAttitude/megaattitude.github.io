@@ -28,10 +28,19 @@ faculty:
 
     bvandurme:
       name: Benjamin Van Durme
-      role: Assistant Professor of Computer Science
+      role: Associate Professor of Computer Science
       affiliation: Johns Hopkins University
       website: http://www.cs.jhu.edu/~vandurme/
       email: vandurme@cs.jhu.edu
+      projects:
+        - megaveridicality
+
+    rrudinger:
+      name: Rachel Rudinger
+      role: Assistant Professor of Computer Science
+      affiliation: University of Maryland
+      website: https://rudinger.github.io
+      email: rudinger@umd.edu
       projects:
         - megaveridicality
 
@@ -47,15 +56,6 @@ faculty:
 graduatestudents:
   name: Graduate Students
   people:
-    rrudinger:
-      name: Rachel Rudinger
-      role: Research Assistant
-      affiliation: Johns Hopkins University
-      website: https://rudinger.github.io
-      email: rudinger@jhu.edu
-      projects:
-        - megaveridicality
-
     yan:
       name: Hannah Youngeun An
       role: Research Assistant
