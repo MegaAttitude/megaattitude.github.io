@@ -4,9 +4,9 @@
 
 **Contact:** aaron.white@rochester.edu, kgr@jhu.edu
 
-**Version:** 1.1
+**Version:** 1.2
 
-**Release date:** 14 Aug 2019
+**Release date:** 7 Apr 2020
 
 ## Overview
 
@@ -24,19 +24,33 @@ If you make use of this dataset in a presentation or publication, we ask that yo
 
 1.0: first public release, 30 Oct 2016
 1.1: formatting update, 14 Aug 2019
+1.2: adds normalized data, 7 Apr 2020
 
 ## Description
+
+`mega-attitude-v1.tsv` contains the raw data.
 
 | **Column**        | **Description**                                                                           | **Values**                           |
 |-------------------|-------------------------------------------------------------------------------------------|--------------------------------------|
 | participant       | anonymous integer identifier for participant that provided the response                   | 0...728                              |
 | list              | integer identifier for list participant was responding to                                 | 0...999                              |
 | presentationorder | relative position of item in list                                                         | 1...50                               |
-| verb              | clause-embedding verb found in the item                                                   | see paper                            |
+| verb              | lemma of clause-embedding verb found in the item                                          | see paper                            |
 | frame             | clausal complement found in the item                                                      | see paper                            |
 | response          | ordinal scale acceptability response                                                      | 1...7                                |
 | nativeenglish     | whether the participant reported speaking American English natively                       | `True`, `False`                      |
 | sentence          | sentence that was judged                                                                  | see paper                            |
+
+`mega-attitude-v1-normalized.tsv` contains data normalized using the procedure described in White & Rawlins 2020.
+
+| **Column**        | **Description**                                                                           | **Values**                           |
+|-------------------|-------------------------------------------------------------------------------------------|--------------------------------------|
+| verb              | lemma of clause-embedding verb found in the item                                          | see paper                            |
+| verbform          | form of clause-embedding verb found in the item                                           | see paper                            |
+| frame             | clausal complement found in the item                                                      | see paper                            |
+| responsenorm      | normalized ordinal scale acceptability response                                           | [-3.84,  4.94]                       |
+| responsevar       | variability of ordinal scale acceptability responses                                      | [-3.64, -0.19]                       |
+| sentence          | sentence that was judged, white-space tokenized                                           | see paper                            |
 
 ## Notes
 
