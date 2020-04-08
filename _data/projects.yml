@@ -8,13 +8,13 @@ megaacceptability:
       filetype: zip
       url: mega-acceptability-v1.zip
       sentences: 50,000
-      predicates: 1,000
+      predicates: 1,007
       frames: 50
     - name: v2
       filetype: zip
       url: mega-acceptability-v2.zip
       sentences: 75,000
-      predicates: 1,000
+      predicates: 1,007
       frames: 150
     - name: linking
       filetype: zip
@@ -22,6 +22,18 @@ megaacceptability:
       sentences: 50
       predicates: 50
       frames: 50
+    - name: single verb
+      filetype: zip
+      url: mega-acceptability-singleverb-v1.zip
+      sentences: 1,850
+      predicates: 37
+      frames: 50
+    - name: replication
+      filetype: zip
+      url: mega-acceptability-replication-v1.zip
+      sentences: 1,380
+      predicates: 30
+      frames: 46
 
 megaveridicality:
   title: MegaVeridicality
