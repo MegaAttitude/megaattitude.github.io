@@ -34,4 +34,4 @@ Additionally, all of the analysis code for White & Rawlins 2020 is available at
 
 If you make use of any of these datasets in a presentation or publication, we ask that
 you please cite these papers. If you make use of the analysis code, we ask that you cite 
-White 2020 as well as the repository linked above.
+White & Rawlins 2020 as well as the repository linked above.
