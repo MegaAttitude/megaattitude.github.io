@@ -14,7 +14,9 @@ This MegaAcceptability dataset consists of ordinal acceptability judgments for 1
 
 For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the following papers:
 
-> An, H.Y. & A.S. White. 2019. [The lexical and grammatical sources of neg-raising inferences](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil). _Proceedings of the Society for Computation in Linguistics_ 3:23, 220-233.
+> White, A.S. & K. Rawlins. 2020. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to _Glossa_.
+
+> An, H.Y. & A.S. White. 2020. [The lexical and grammatical sources of neg-raising inferences](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil). _Proceedings of the Society for Computation in Linguistics_ 3:23, 220-233.
 
 > White, A. S. & K. Rawlins. 2016. [A computational model of S-selection](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/26.641/3662). In M. Moroney, C-R. Little, J. Collard & D. Burgdorf (eds.), *Semantics and Linguistic Theory* 26, 641-663. Ithaca, NY: CLC Publications.
 
@@ -22,7 +24,7 @@ If you make use of this dataset in a presentation or publication, we ask that yo
 
 ## Version history
 
-1.0: first public release,
+1.0: first public release, 30 Oct 2016
 1.1: formatting update, 14 Aug 2019
 2.0: first public release, 14 Aug 2019
 

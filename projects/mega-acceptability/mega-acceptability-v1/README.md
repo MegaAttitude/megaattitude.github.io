@@ -14,9 +14,9 @@ This dataset consists of ordinal acceptability judgments for 1,000 clause-embedd
 
 For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the following papers:
 
-> White, A. S. & K. Rawlins. 2016. [A computational model of S-selection](http://aswhite.net/media/papers/white_computational_2016_salt.pdf). In M. Moroney, C-R. Little, J. Collard & D. Burgdorf (eds.), *Semantics and Linguistic Theory* 26, 641-663. Ithaca, NY: CLC Publications.
-
 > White, A.S. & K. Rawlins. 2020. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to _Glossa_.
+
+> White, A. S. & K. Rawlins. 2016. [A computational model of S-selection](http://aswhite.net/media/papers/white_computational_2016_salt.pdf). In M. Moroney, C-R. Little, J. Collard & D. Burgdorf (eds.), *Semantics and Linguistic Theory* 26, 641-663. Ithaca, NY: CLC Publications.
 
 If you make use of this dataset in a presentation or publication, we ask that you please cite these papers.
 
@@ -54,5 +54,4 @@ If you make use of this dataset in a presentation or publication, we ask that yo
 
 ## Notes
 
-* Only participants for which `exclude==True` are included in the analysis in White & Rawlins 2016. The full exclusion procedure is laid out in a paper in preparation.
 * A javascript error produced 10 NA values for `response`, none of which affect the same verb-frame pair.
