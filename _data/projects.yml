@@ -67,9 +67,9 @@ megaorientation:
   title: MegaOrientation
   url: mega-orientation/
   datasets:
-    - name: v1
+    - name: v1.1
       filetype: zip
-      url: mega-orientation-v1.zip
+      url: mega-orientation-v1.1.zip
       sentences: 2,208
       predicates: 898
       frames: 5
