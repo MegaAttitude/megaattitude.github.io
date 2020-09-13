@@ -33,4 +33,4 @@ The MegaOrientation dataset consists of ordinal acceptability judgments for 898
 clause-embedding verbs of English with a variety of nonfinite subordinate clause
 structures. A detailed description of the dataset is coming soon.
 
-> Moon, E. & A.S. White. 2019. The source of nonfinite temporal interpretation. In prep for the Proceedings of the 50th annual meeting of the Northeast Linguistic Society.
+> Moon, Ellise, and Aaron Steven White. to appear. [The Source of Nonfinite Temporal Interpretation](https://ling.auf.net/lingbuzz/005282/current.pdf). In Proceedings of the 50th Annual Meeting of the North East Linguistic Society. Amherst, MA: GLSA Publications.
