@@ -32,9 +32,7 @@ triggers the inference (2c).
    a. Bo remembered to leave.<br/>
    b. Bo didn’t remember to leave.
 
-The MegaVeridicality dataset consists of ordinal veridicality judgments as well
-as ordinal acceptability judgments for 773 clause-embedding verbs of English
-with a variety of subordinate clause structures. For a detailed description of
-the dataset, the item construction and collection methods, and discussion of how
-to use a dataset on this scale to address questions in linguistic theory, please
-see the references below.
+For a detailed description of the MegaVeridicality datasets, including
+the item construction and collection methods and discussion of how to
+use a dataset on this scale to address questions in linguistic theory,
+please see the references below.
