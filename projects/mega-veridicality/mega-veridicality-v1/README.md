@@ -24,17 +24,17 @@ If you make use of this dataset in a presentation or publication, we ask that yo
 
 ## Description
 
-| **Column**        | **Description**                                                                           | **Values**          |
-|-------------------|-------------------------------------------------------------------------------------------|---------------------|
-| participant       | anonymous integer identifier for participant that provided the response                   | 0...290             |
-| list              | integer identifier for list participant was responding to                                 | 0...15             |
-| presentationorder | relative position of item in list                                                         | 1...68              |
-| verb              | clause-embedding verb found in the item                                                   | see paper           |
-| frame             | clausal complement found in the item                                                      | see paper           |
-| voice             | voice found in the item                                                                   | `active`, `passive` |
-| polarity            | polarity found in the item                                                                   | `positive`, `negative` |
-| conditional            | whether the item was embedded in the antecedent of a conditional (see paper)                                                                   | `True`, `False` |
-| veridicality          | ordinal scale veridicality response                                                      | `no`, `maybe`, `yes`               |
-| acceptability          | ordinal scale acceptability response                                                      | 1...7               |
-| nativeenglish     | whether the participant reported speaking American English natively                       | `True`, `False`     |
-| exclude           | whether the participant should be excluded based on native language | `True`, `False`     |
+| **Column**        | **Description**                                                                           | **Values**             |
+|-------------------|-------------------------------------------------------------------------------------------|------------------------|
+| participant       | anonymous integer identifier for participant that provided the response                   | 0...290                |
+| list              | integer identifier for list participant was responding to                                 | 0...15                 |
+| presentationorder | relative position of item in list                                                         | 1...68                 |
+| verb              | clause-embedding verb found in the item                                                   | see paper              |
+| frame             | clausal complement found in the item                                                      | see paper              |
+| voice             | voice found in the item                                                                   | `active`, `passive`    |
+| polarity          | polarity found in the item                                                                | `positive`, `negative` |
+| conditional       | whether the item was embedded in the antecedent of a conditional (see paper)              | `True`, `False`        |
+| veridicality      | ordinal scale veridicality response                                                       | `no`, `maybe`, `yes`   |
+| acceptability     | ordinal scale acceptability response                                                      | 1...7                  |
+| nativeenglish     | whether the participant reported speaking American English natively                       | `True`, `False`        |
+| exclude           | whether the participant should be excluded based on native language                       | `True`, `False`     |

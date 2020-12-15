@@ -1,11 +1,10 @@
 ---
-layout: page
-title: About
-excerpt: "The MegaAttitude Project investigates clause-embedding predicates' semantic properties and syntactic distribution using tools from computational psycholinguistics."
-modified: 2019-08-14T11:46-05:00
+layout: home
+title: The MegaAttitude Project
+subtitle: Investigating clause-embedding at the scale of the lexicon.
 ---
 
-The **MegaAttitude Project**, which is joint work between the [FACTS.lab](http://factslab.io) at the University of Rochester and the [Semantics Lab](http://sites.krieger.jhu.edu/rawlins/semantics-lab/) at Johns Hopkins University, has two main goals:
+The **MegaAttitude Project** has two main goals:
 
 1. Collecting lexicon-scale annotations of the syntactic and semantic properties of clause-embedding verbs, adjectives, and nouns, using human acceptability, veridicality, and similarity judgments.
 2. Developing scalable models for analyzing these data inspired by theoretical proposals from the syntax and semantics literature.

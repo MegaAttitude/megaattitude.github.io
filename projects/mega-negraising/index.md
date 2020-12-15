@@ -1,5 +1,6 @@
 ---
 layout: project
+title: The MegaNegRaising Dataset
 handle: meganegraising
 search_omit: true
 ---
@@ -12,11 +13,9 @@ predicate can be interpreted as though in that predicate’s subordinate clause.
 For example, a neg-raising inference is triggered by (1) while one is not
 triggered by (2).
 
-(1) Jo doesn’t think that Bo left.
-    ~~> Jo thinks that Bo didn’t leave.
+1. Jo doesn’t think that Bo left. ⇝⇝ Jo thinks that Bo didn’t leave.
 
-(2) Jo doesn’t know that Bo left.
-    ~/~> Jo knows that Bo didn’t leave.
+2. Jo doesn’t know that Bo left. ⇝/⇝ Jo knows that Bo didn’t leave.
 
 The MegaNegRaising dataset (MegaNeRd) consists of slider-based veridicality
 judgments aimed at capturing patterns like that in (1) and (2) as well as
@@ -24,9 +23,4 @@ ordinal acceptability judgments for 925 clause-embedding verbs of English with a
 variety of subordinate clause structures, matrix tenses, and matrix subjects.
 For a detailed description of the dataset, the item construction and collection
 methods, and discussion of how to use a dataset on this scale to address
-questions in linguistic theory, please see the following paper:
-
-> An, H. Y. & A.S. White 2019. [The lexical and grammatical sources of neg-raising inferences](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1138&context=scil). _Proceedings of the Society for Computation in Linguistics 3_:23, 220-233.
-
-If you make use of this dataset in a presentation or publication, we ask that
-you please cite this paper.
+questions in linguistic theory, please see the references below.
