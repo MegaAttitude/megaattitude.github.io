@@ -85,6 +85,13 @@ megaveridicality:
       frames: 9
       citation: "White&nbsp;&&nbsp;Rawlins&nbsp;2018<br/>White&nbsp;et al.&nbsp;2018"      
   references:
+  - citation: "White, Aaron Steven. accepted with revisions. On believing and hoping whether. <i>Semantics & Pragmatics</i>."
+    links:
+    - label: "pdf"
+      href: "https://ling.auf.net/lingbuzz/005665/current.pdf"
+    - label: "code"
+      href: "https://github.com/MegaAttitude/on-believing-and-hoping-whether"      
+    
   - citation: "White, Aaron Steven, Rachel Rudinger, Kyle Rawlins, and Benjamin Van Durme. 2018. Lexicosyntactic Inference in Neural Models. In <i>Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing</i>, 4717–4724. Brussels, Belgium: Association for Computational Linguistics."
     links:
     - label: "pdf"
@@ -110,6 +117,13 @@ meganegraising:
       frames: 24
       citation: "An&nbsp;& White&nbsp;2020"
   references:
+  - citation: "White, Aaron Steven. accepted with revisions. On believing and hoping whether. <i>Semantics & Pragmatics</i>."
+    links:
+    - label: "pdf"
+      href: "https://ling.auf.net/lingbuzz/005665/current.pdf"
+    - label: "code"
+      href: "https://github.com/MegaAttitude/on-believing-and-hoping-whether"      
+    
   - citation: "An, Hannah Youngeun, and Aaron Steven White. 2020. The Lexical and Grammatical Sources of Neg-Raising Inferences. In <i>Proceedings of the Society for Computation in Linguistics</i> 3: 220–233."
     links:
     - label: "pdf"
