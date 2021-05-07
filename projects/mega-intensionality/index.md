@@ -4,7 +4,7 @@ title: The MegaIntensionality Dataset
 handle: megaintensionality
 ---
 
-Much recent work in the formal semantics literature attempts to relate lexically triggered
+Much recent work in the formal semantics literature has attempted to relate lexically triggered
 inferences to predicates' intensional properties. In particular, the properties of a predicate
 related to belief or desire of one or both participants give rise to doxastic and
 bouletic inferences, respectively. For example, (1a) gives rise to the inference (2a), while
