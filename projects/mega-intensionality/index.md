@@ -36,4 +36,4 @@ other lexical properties) are possible has received considerable attention in re
    a. Jo didn't believe that Bo left.<br/>
    b. Jo didn't want Bo to have left.
 
-The MegaIntensionality dataset consists of ordinal acceptability judgments for 725 finite clause-embedding verbs of English with a variety of subordinate clause structures, matrix tenses, and matrix subjects. For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the references below.
+The MegaIntensionality dataset consists of slider-based judgments of doxastic and bouletic inferences for 725 finite clause-embedding verbs of English with a variety of subordinate clause structures, matrix tenses, and matrix subjects. For a detailed description of the dataset, the item construction and collection methods, and discussion of how to use a dataset on this scale to address questions in linguistic theory, please see the references below.
