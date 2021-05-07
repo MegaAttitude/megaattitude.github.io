@@ -57,3 +57,12 @@ emoon:
   email: emoon3@ur.rochester.edu
   projects:
     - megaorientation
+
+bkane:
+  name: Benjamin Kane
+  role: Research Assistant
+  affiliation: University of Rochester
+  website: https://www.cs.rochester.edu/u/bkane2/
+  email: bkane2@ur.rochester.edu
+  projects:
+    - megaintensionality
