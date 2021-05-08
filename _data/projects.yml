@@ -148,3 +148,37 @@ megaorientation:
     links:
     - label: "pdf (preprint)"
       href: "https://ling.auf.net/lingbuzz/005282/current.pdf"
+
+megaintensionality:
+  title: MegaIntensionality
+  url: mega-intensionality/
+  datasets:
+    - name: v1
+      filetype: zip
+      url: mega-intensionality-v1.zip
+      sentences: 3890
+      predicates: 725
+      frames: 12
+      citation: "Kane,&nbsp;Gantt,&nbsp;&&nbsp;White&nbsp;2021"
+    - name: validation
+      filetype: zip
+      url: mega-intensionality-validation-v1.zip
+      sentences: 408
+      predicates: 24
+      frames: 3
+      citation: "Kane,&nbsp;Gantt,&nbsp;&&nbsp;White&nbsp;2021"
+    - name: norming
+      filetype: zip
+      url: mega-intensionality-norming-v1.zip
+      sentences: 384
+      predicates: NA
+      frames: NA
+      citation: "Kane,&nbsp;Gantt,&nbsp;&&nbsp;White&nbsp;2021"      
+      
+  references:
+  - citation: "Kane, Benjamin, William Gantt, and Aaron Steven White. 2021. Intensional gaps: Relating doxasticity, bouleticity, veridicality, factivity, and neg-raising. Accepted to _Semantics and Linguistic Theory_ 31."
+    links:
+    - label: "pdf (preprint)"
+      href: ""
+    - label: "code"
+      href: "https://github.com/MegaAttitude/intensional-gaps"

@@ -19,6 +19,7 @@ navbar-links:
     - MegaAcceptability: "projects/mega-acceptability/"
     - MegaVeridicality: "projects/mega-veridicality/"
     - MegaNegRaising: "projects/mega-negraising/"
+    - MegaIntensionality: "projects/mega-intensionality/"      
     - MegaOrientation: "projects/mega-orientation/"
   DATA: "data/"
       
