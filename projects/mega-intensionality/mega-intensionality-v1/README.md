@@ -22,18 +22,33 @@ This study presented participants on Amazon Mechanical Turk with low-content, *t
 
 ## Description:
 
-`mega-intensionality-v1.tsv`
+`mega-intensionality-v1.tsv` contains the raw data.
 
 | **Column**                | **Description**                                                                   | **Values**                           |
 |---------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
 | participant               | anonymous integer identifier for participant that provided the response           | 0...271                              |
 | antecedent_verb           | lemma of clause-embedding verb found in the antecedent sentence                   | see paper                            |
 | antecedent_frame          | the syntactic frame of the antecedent verb                                        | see paper                            |
-| antecedent_polarity       | the polarity of the matrix clause of the antecedent sentence                      | `positive`, `negative`               |            
+| antecedent_polarity       | the polarity of the matrix clause of the antecedent sentence                      | `positive`, `negative`               |
 | antecedent_text           | the text of the antecedent sentence                                               | see paper                            |
 | consequent_verb           | lemma of the verb in the consequent sentence (denoting the inference type)        | `believe`, `want`                    |
 | consequent_text           | the text of the consequent sentence                                               | see paper                            |
 | consequent_embedded_tense | the tense of the verb in the consequent's embedded clause                         | `past`, `future`                     |
 | target                    | the target of the inference judgment                                              | `subject`, `object`                  |
 | sanity                    | the number of sanity check questions correctly answered by the participant        | 1...4                                |
-| response                  | the participant's raw response giving the likelihood of the inference             | 0.0...1.0                            |
+| response                  | the participant's raw response giving the likelihood of the inference             | [0.0, 1.0]                           |
+
+`mega-intensionality-v1-normalized.tsv` contains the normalized data.
+
+| **Column**                | **Description**                                                                   | **Values**                           |
+|---------------------------|-----------------------------------------------------------------------------------|--------------------------------------|
+| antecedent_verb           | lemma of clause-embedding verb found in the antecedent sentence                   | see paper                            |
+| antecedent_frame          | the syntactic frame of the antecedent verb                                        | see paper                            |
+| antecedent_polarity       | the polarity of the matrix clause of the antecedent sentence                      | `positive`, `negative`               |
+| antecedent_text           | the text of the antecedent sentence                                               | see paper                            |
+| consequent_verb           | lemma of the verb in the consequent sentence (denoting the inference type)        | `believe`, `want`                    |
+| consequent_text           | the text of the consequent sentence                                               | see paper                            |
+| consequent_embedded_tense | the tense of the verb in the consequent's embedded clause                         | `past`, `future`                     |
+| target                    | the target of the inference judgment                                              | `subject`, `object`                  |
+| sanity                    | the number of sanity check questions correctly answered by the participant        | 1...4                                |
+| response_normalized       | the normalized response giving the likelihood of the inference                    | (0.0, 1.0)                           |
