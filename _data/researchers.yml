@@ -71,7 +71,7 @@ wgantt:
   name: William Gantt
   role: Research Assistant
   affiliation: University of Rochester
-  website: https://www.wgantt.github.io/
+  website: https://wgantt.github.io/
   email: wgantt@ur.rochester.edu
   projects:
     - megaintensionality
