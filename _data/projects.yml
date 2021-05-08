@@ -176,9 +176,9 @@ megaintensionality:
       citation: "Kane,&nbsp;Gantt,&nbsp;&&nbsp;White&nbsp;2021"      
       
   references:
-  - citation: "Kane, Benjamin, William Gantt, and Aaron Steven White. 2021. Intensional gaps: Relating doxasticity, bouleticity, veridicality, factivity, and neg-raising. Accepted to _Semantics and Linguistic Theory_ 31."
+  - citation: "Kane, Benjamin, William Gantt, and Aaron Steven White. 2021. Intensional gaps: Relating doxasticity, bouleticity, veridicality, factivity, and neg-raising. Accepted to <i>Semantics and Linguistic Theory 31</i>."
     links:
     - label: "pdf (preprint)"
-      href: ""
+      href: "https://ling.auf.net/lingbuzz/005930/current.pdf"
     - label: "code"
       href: "https://github.com/MegaAttitude/intensional-gaps"
