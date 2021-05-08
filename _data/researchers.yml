@@ -66,3 +66,12 @@ bkane:
   email: bkane2@ur.rochester.edu
   projects:
     - megaintensionality
+
+wgantt:
+  name: William Gantt
+  role: Research Assistant
+  affiliation: University of Rochester
+  website: https://www.wgantt.github.io/
+  email: wgantt@ur.rochester.edu
+  projects:
+    - megaintensionality
