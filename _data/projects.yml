@@ -77,9 +77,9 @@ megaveridicality:
       predicates: 517
       frames: 2
       citation: "White&nbsp;&&nbsp;Rawlins&nbsp;2018"
-    - name: v2
+    - name: v2.1
       filetype: zip
-      url: mega-veridicality-v2.zip
+      url: mega-veridicality-v2.1.zip
       sentences: 3,938
       predicates: 773
       frames: 9
