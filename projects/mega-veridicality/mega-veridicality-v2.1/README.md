@@ -31,10 +31,11 @@ If you make use of this dataset in a presentation or publication, we ask that yo
 - `mega-veridicality-v2.1.tsv`
 - `mega-veridicality-v2.1-normalized.tsv`
 - `README.md`
+- `LICENSE`
 
 ## Description
 
-`mega-veridicality-v2.tsv` contains the raw data collected on
+`mega-veridicality-v2.1.tsv` contains the raw data collected on
 Mechanical Turk.
 
 | **Column**        | **Description**                                                                           | **Values**             |
@@ -52,7 +53,7 @@ Mechanical Turk.
 | nativeenglish     | whether the participant reported speaking American English natively                       | `True`, `False`        |
 | exclude           | whether the participant should be excluded based on native language                       | `True`, `False`        |
 
-`mega-veridicality-v2-normalized.csv` contains normalized veridicality
+`mega-veridicality-v2.1-normalized.csv` contains normalized veridicality
 and acceptability ratings, one for each verb-frame-voice-polarity
 tuple. These normalized ratings are constructed using an ordinal
 model-based normalization procedure and can be thought of as mean

@@ -27,13 +27,13 @@ If you make use of this dataset in a presentation or publication, we ask that yo
 
 ## Manifest
 
-- `megaveridicality_v2.csv`
-- `megaveridicality_normalized_v2.csv`
+- `megaveridicality-v2.csv`
 - `README.md`
+- `LICENSE`
 
 ## Description
 
-`megaveridicality_v2.csv` contains the raw data collected on Mechanical Turk.
+`megaveridicality-v2.csv` contains the raw data collected on Mechanical Turk.
 
 | **Column**        | **Description**                                                                           | **Values**             |
 |-------------------|-------------------------------------------------------------------------------------------|------------------------|
@@ -50,21 +50,6 @@ If you make use of this dataset in a presentation or publication, we ask that yo
 | acceptability     | ordinal scale acceptability response                                                      | 1...7                  |
 | nativeenglish     | whether the participant reported speaking American English natively                       | `True`, `False`        |
 | exclude           | whether the participant should be excluded based on native language                       | `True`, `False`        |
-
-`megaveridicality_normalized_v2.csv` contains normalized veridicality and acceptability ratings, one for each verb-frame-voice-polarity tuple. These normalized ratings are constructed using an ordinal model-based normalization procedure and can be thought of as mean ratings that control for participants' differing uses of the relevant response scale. The mean log-likelihood for the 10 ratings given for each verb-frame-voice-polarity tuple under the ordinal model used to normalize the data is also given. This can be thought of as analogous to an estimate of rating variance.
-
-| **Column**                  | **Description**                                                                           | **Values**             |
-|-----------------------------|-------------------------------------------------------------------------------------------|------------------------|
-| verb                        | clause-embedding verb found in the item                                                   | see paper              |
-| frame                       | clausal complement found in the item                                                      | see paper              |
-| voice                       | voice found in the item                                                                   | `active`, `passive`    |
-| polarity                    | polarity found in the item                                                                | `positive`, `negative` |
-| conditional                 | whether the item was embedded in the antecedent of a conditional (see paper)              | `True`, `False`        |
-| sentence                    | the sentence judged                                                                       | see paper              |
-| veridicality_normalized     | the normalized veridicality rating                                                        | [-3.52, 1.87]          |
-| acceptability_normalized    | the normalized acceptability rating                                                       | [-2.85, 3.16]          |
-| veridicality_loglikelihood  | the sentence judged                                                                       | [-1.74, 0.00]          |
-| acceptability_loglikelihood | the sentence judged                                                                       | [-2.60, -0.06]         |
 
 ## Notes
 

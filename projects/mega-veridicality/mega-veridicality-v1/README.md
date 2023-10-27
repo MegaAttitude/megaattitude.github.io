@@ -22,6 +22,12 @@ If you make use of this dataset in a presentation or publication, we ask that yo
 
 1.0: first public release, May 11, 2018.
 
+## Manifest
+
+- `megaveridicality-v1.csv`
+- `README.md`
+- `LICENSE`
+
 ## Description
 
 | **Column**        | **Description**                                                                           | **Values**             |
