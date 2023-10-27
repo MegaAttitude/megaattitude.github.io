@@ -71,10 +71,8 @@ to an estimate of rating variance.
 | polarity                    | polarity found in the item                                                                | `positive`, `negative` |
 | conditional                 | whether the item was embedded in the antecedent of a conditional (see paper)              | `True`, `False`        |
 | sentence                    | the sentence judged                                                                       | see paper              |
-| veridicality_normalized     | the normalized veridicality rating                                                        | [-3.52, 1.87]          |
-| acceptability_normalized    | the normalized acceptability rating                                                       | [-2.85, 3.16]          |
-| veridicality_loglikelihood  | the sentence judged                                                                       | [-1.74, 0.00]          |
-| acceptability_loglikelihood | the sentence judged                                                                       | [-2.60, -0.06]         |
+| veridicalitylike   | the likelihood of the ordinal response under the normalization model                                                      | [-1.60, -0.02]          |
+| veridicalitynorm     | the normalized veridicality rating                                                        | [-3.98, 4.00]          |
 
 ## Notes
 
